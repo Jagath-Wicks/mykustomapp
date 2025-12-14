@@ -1,3 +1,9 @@
+Kustomize: The Best Way to Manage Your Kubernetes Configs
+
+Youtube: https://www.youtube.com/watch?v=spCdNeNCuFU
+
+
+
 ## Check your version of kubectl
 ```
 kubectl version
